@@ -1,0 +1,8 @@
+{
+    "[python]": {
+        "editor.tabSize": 4,
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.formatOnType": true,
+        "editor.wordBasedSuggestions": false
+    }
+}
